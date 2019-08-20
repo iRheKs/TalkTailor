@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogue Name="Dialogue">
+	<Node ID="1" Name="Nodorl_CSharp">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+</Dialogue>
+

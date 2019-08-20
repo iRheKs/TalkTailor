@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogue Name="dialogue">
+	<Node ID="1" Name="Node_1">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+	<Node ID="2" Name="Node_2">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+	<Node ID="3" Name="Node_3">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+	<Node ID="4" Name="Node_4">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+	<Node ID="5" Name="Node_5">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+	<Node ID="6" Name="Node_6">
+		<Lines> </Lines>
+		<Answers> </Answers>
+	</Node>
+</Dialogue>
+

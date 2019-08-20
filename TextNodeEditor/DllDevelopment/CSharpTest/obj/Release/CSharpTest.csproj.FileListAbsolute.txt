@@ -1,0 +1,6 @@
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\bin\Release\CSharpTest.exe
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\bin\Release\CSharpTest.pdb
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\obj\Release\CSharpTest.csproj.CoreCompileInputs.cache
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\obj\Release\CSharpTest.exe
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\obj\Release\CSharpTest.pdb
+E:\LockBomb\TextNodeEditor\DllDevelopment\CSharpTest\obj\Release\CSharpTest.csprojAssemblyReference.cache

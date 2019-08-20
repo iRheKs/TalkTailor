@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogue Name="Dialogue">
+	<Node ID="1" Name="Node_1">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="2">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="2" Name="Node_2">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="3">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="3" Name="Node_3">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="4">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="4" Name="Node_4">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="5">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="5" Name="Node_5">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="6">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="6" Name="Node_6">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="7">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="7" Name="Node_7">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="8">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="8" Name="Node_8">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="9">Que tal?</Answer>
+		</Answers>
+	</Node>
+	<Node ID="9" Name="Node_9">
+		<Lines>
+			<Line>Hola</Line>
+		</Lines>
+		<Answers>
+			<Answer Connection="10">Que tal?</Answer>
+		</Answers>
+	</Node>
+</Dialogue>
+

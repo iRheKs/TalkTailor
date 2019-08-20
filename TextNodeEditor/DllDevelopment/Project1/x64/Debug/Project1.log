@@ -1,0 +1,19 @@
+﻿  Main.cpp
+e:\lockbomb\textnodeeditor\dlldevelopment\code\headers\node.hpp(44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\lockbomb\textnodeeditor\dlldevelopment\code\headers\node.hpp(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\lockbomb\textnodeeditor\dlldevelopment\code\headers\dialogue.hpp(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\lockbomb\textnodeeditor\dlldevelopment\code\headers\application.hpp(26): warning C4091: 'static ': ignored on left of 'Application' when no variable is declared
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(9): error C3861: 'createDialogue': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(14): error C3861: 'addNode': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(15): error C3861: 'addLine': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(16): error C3861: 'addAnswer': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(19): error C3861: 'saveDialogue': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(21): error C3861: 'deleteNode': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(23): error C3861: 'saveDialogue': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(25): error C3861: 'loadDialogue': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(27): error C3861: 'deleteNode': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(28): error C3861: 'deleteLine': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(29): error C3861: 'deleteLine': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(30): error C3861: 'deleteAnswer': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(31): error C3861: 'deleteAnswer': identifier not found
+e:\lockbomb\textnodeeditor\dlldevelopment\project1\code\main.cpp(33): error C3861: 'exportDialogue': identifier not found

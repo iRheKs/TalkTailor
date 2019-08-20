@@ -1,0 +1,14 @@
+﻿  Application.cpp
+  Dialogue.cpp
+  DLLExternal.cpp
+  Node.cpp
+  Serializer.cpp
+     Creating library E:\LockBomb\TextNodeEditor\DllDevelopment\TextEditorDll\x64\Release\TextEditorDll.lib and object E:\LockBomb\TextNodeEditor\DllDevelopment\TextEditorDll\x64\Release\TextEditorDll.exp
+  Generating code
+  All 680 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TextEditorDll.vcxproj -> E:\LockBomb\TextNodeEditor\DllDevelopment\TextEditorDll\x64\Release\TextEditorDll.dll
+  .\x64\Release\TextEditorDll.dll
+  1 archivo(s) copiado(s)
+  .\x64\Release\TextEditorDll.dll
+  1 archivo(s) copiado(s)
